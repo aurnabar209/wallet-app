@@ -5,11 +5,6 @@ A beautifully designed personal finance tracker app for Android.
 Track your income, expenses, loans, and savings — all in one place.
 
 ---
-
-## 📱 Screenshots
-
-> Add your screenshots here
-
 ---
 
 ## ✨ Features
