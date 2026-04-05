@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="Theme.Wallet.Splash" parent="Theme.SplashScreen">
+        <item name="windowSplashScreenBackground">#0a0e1a</item>
+        <item name="windowSplashScreenAnimatedIcon">@mipmap/ic_launcher</item>
+        <item name="postSplashScreenTheme">@style/Theme.Wallet</item>
+    </style>
+
+    <style name="Theme.Wallet" parent="Theme.AppCompat.NoActionBar">
+    </style>
+</resources>

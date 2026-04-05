@@ -1,0 +1,13 @@
+<resources>
+    <color name="bg">#0a0e1a</color>
+    <color name="card">#141926</color>
+    <color name="border">#252d42</color>
+
+    <color name="text">#e8eef8</color>
+    <color name="text_sub">#7a8bad</color>
+
+    <color name="green">#00d97e</color>
+    <color name="green2">#00a85f</color>
+    <color name="red">#ff4d6d</color>
+    <color name="blue">#4d9fff</color>
+</resources>

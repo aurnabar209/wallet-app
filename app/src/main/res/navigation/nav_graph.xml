@@ -1,0 +1,21 @@
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    app:startDestination="@id/homeFragment">
+
+    <fragment
+        android:id="@+id/homeFragment"
+        android:name="com.example.wallet.ui.home.HomeFragment" />
+
+    <fragment
+        android:id="@+id/historyFragment"
+        android:name="com.example.wallet.ui.history.HistoryFragment" />
+
+    <fragment
+        android:id="@+id/calendarFragment"
+        android:name="com.example.wallet.ui.calendar.CalendarFragment" />
+
+    <fragment
+        android:id="@+id/chartsFragment"
+        android:name="com.example.wallet.ui.charts.ChartsFragment" />
+
+</navigation>
